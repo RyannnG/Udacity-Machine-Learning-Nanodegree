@@ -1,6 +1,6 @@
 # Udacity-Machine-Learning-Nanodegree
 
-This repository is for Udacity Machine Learning Nanadegree
+This repository is built for Udacity Machine Learning Nanadegree
 
 ## Outline
 

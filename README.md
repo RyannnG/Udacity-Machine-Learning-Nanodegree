@@ -9,3 +9,9 @@ This repository is for Udacity Machine Learning Nanadegree
 + P3 Creating Customer Segments
 + P4 Smartcab
 + Capstone: Deep Learning
+
+## Environment
+
++ Jupyter Notebook
++ Python 2.7
++ Numpy, Matplotlib, Pandas & Scikit-Learn

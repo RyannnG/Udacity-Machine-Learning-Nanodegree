@@ -8,7 +8,12 @@ This repository is built for Udacity Machine Learning Nanadegree
 + P1 Boston Housing
 + P3 Creating Customer Segments
 + P4 Smartcab
-+ Capstone: Deep Learning
++ Capstone: Deep Learning (in another repository)
+
+## Instructions
+
+Each of the project contains a report and an jupyter notebook. 
+You could open the .ipynb file to see the code and answers to the questions related to this project
 
 ## Environment
 
